@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dragalia/static/css/main.b100e6da.chunk.css",
+    "main.js": "/dragalia/static/js/main.f76f3691.chunk.js",
+    "main.js.map": "/dragalia/static/js/main.f76f3691.chunk.js.map",
+    "runtime-main.js": "/dragalia/static/js/runtime-main.718223ec.js",
+    "runtime-main.js.map": "/dragalia/static/js/runtime-main.718223ec.js.map",
+    "static/js/2.81d79ca4.chunk.js": "/dragalia/static/js/2.81d79ca4.chunk.js",
+    "static/js/2.81d79ca4.chunk.js.map": "/dragalia/static/js/2.81d79ca4.chunk.js.map",
+    "index.html": "/dragalia/index.html",
+    "precache-manifest.8684716a9dc008e457e23591119fa78b.js": "/dragalia/precache-manifest.8684716a9dc008e457e23591119fa78b.js",
+    "service-worker.js": "/dragalia/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/dragalia/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/dragalia/static/media/logo.25bf045c.svg"
+  }
+}
