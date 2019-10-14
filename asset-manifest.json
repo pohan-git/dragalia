@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dragalia/static/css/main.78a41feb.chunk.css",
+    "main.css": "/dragalia/static/css/main.a91ab0c2.chunk.css",
     "main.js": "/dragalia/static/js/main.82f7ca00.chunk.js",
     "main.js.map": "/dragalia/static/js/main.82f7ca00.chunk.js.map",
     "runtime-main.js": "/dragalia/static/js/runtime-main.718223ec.js",
@@ -8,9 +8,9 @@
     "static/js/2.c974f901.chunk.js": "/dragalia/static/js/2.c974f901.chunk.js",
     "static/js/2.c974f901.chunk.js.map": "/dragalia/static/js/2.c974f901.chunk.js.map",
     "index.html": "/dragalia/index.html",
-    "precache-manifest.8e9b6d7684ff61d0c4b8291ee2b124ea.js": "/dragalia/precache-manifest.8e9b6d7684ff61d0c4b8291ee2b124ea.js",
+    "precache-manifest.72b3c26c471deb0359808b57ed12de10.js": "/dragalia/precache-manifest.72b3c26c471deb0359808b57ed12de10.js",
     "service-worker.js": "/dragalia/service-worker.js",
-    "static/css/main.78a41feb.chunk.css.map": "/dragalia/static/css/main.78a41feb.chunk.css.map",
+    "static/css/main.a91ab0c2.chunk.css.map": "/dragalia/static/css/main.a91ab0c2.chunk.css.map",
     "static/media/logo.png": "/dragalia/static/media/logo.9c118b22.png"
   }
 }
