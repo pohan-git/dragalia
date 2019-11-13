@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dragalia/precache-manifest.00bd9cea0bacbe3a516fa7aec1adbb75.js"
+  "/dragalia/precache-manifest.4dc2e5c2def2e46d4e8c15bb2425a558.js"
 );
 
 self.addEventListener('message', (event) => {
