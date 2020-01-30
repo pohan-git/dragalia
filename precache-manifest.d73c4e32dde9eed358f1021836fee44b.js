@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "38c65506c60ac4bd7bd93b71cca2dfce",
+    "revision": "4adaf58ebdd7c68c1d0c680b219c0d88",
     "url": "/dragalia/index.html"
   },
   {
-    "revision": "cfa722949b6fa7755aa9",
+    "revision": "8bd47a5ff8fe35428ccc",
     "url": "/dragalia/static/css/main.50a8f5d3.chunk.css"
   },
   {
-    "revision": "58ba5fef0f3b1eb87c7c",
-    "url": "/dragalia/static/js/2.a103845c.chunk.js"
+    "revision": "61535e04c12ca184b00c",
+    "url": "/dragalia/static/js/2.7717da22.chunk.js"
   },
   {
-    "revision": "cfa722949b6fa7755aa9",
-    "url": "/dragalia/static/js/main.81ad1445.chunk.js"
+    "revision": "8bd47a5ff8fe35428ccc",
+    "url": "/dragalia/static/js/main.96db3cd6.chunk.js"
   },
   {
     "revision": "4b5eba60403e37fd8033",
@@ -1524,6 +1524,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dragalia/static/media/400408_02.a638c4d7.png"
   },
   {
+    "revision": "2b532f4aa713a30bd1d9ae76040ee0fe",
+    "url": "/dragalia/static/media/400409_01.2b532f4a.png"
+  },
+  {
+    "revision": "2c2b65723936b858606a3f9c76c54954",
+    "url": "/dragalia/static/media/400409_02.2c2b6572.png"
+  },
+  {
+    "revision": "996ed82fda412657b6c2f8b6d9165a01",
+    "url": "/dragalia/static/media/400410_01.996ed82f.png"
+  },
+  {
+    "revision": "45f06b9eb527b3439ea4694bfe64fd25",
+    "url": "/dragalia/static/media/400410_02.45f06b9e.png"
+  },
+  {
     "revision": "cc072865359b11703a60e6fae4612c9e",
     "url": "/dragalia/static/media/400411_01.cc072865.png"
   },
@@ -1538,6 +1554,46 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6528143de6803beaac4459dbb94ebbbd",
     "url": "/dragalia/static/media/400412_02.6528143d.png"
+  },
+  {
+    "revision": "e3ecc453f2f038ba2e7418b3e96385f1",
+    "url": "/dragalia/static/media/400415_01.e3ecc453.png"
+  },
+  {
+    "revision": "8e3c8ecc272fee47d09afe71355509a4",
+    "url": "/dragalia/static/media/400415_02.8e3c8ecc.png"
+  },
+  {
+    "revision": "a9d4b6659641fbfa5ccbcee772aca14d",
+    "url": "/dragalia/static/media/400416_01.a9d4b665.png"
+  },
+  {
+    "revision": "d7698d7a6f9c0cba97929339526774a1",
+    "url": "/dragalia/static/media/400416_02.d7698d7a.png"
+  },
+  {
+    "revision": "092c358ebbd6ef8c8d5a5ad381a318e2",
+    "url": "/dragalia/static/media/400417_01.092c358e.png"
+  },
+  {
+    "revision": "31bdd644a3f9f263beb02bfb882f9a53",
+    "url": "/dragalia/static/media/400417_02.31bdd644.png"
+  },
+  {
+    "revision": "f00bc8d68fde69ff76acb81739e5c400",
+    "url": "/dragalia/static/media/400424_01.f00bc8d6.png"
+  },
+  {
+    "revision": "f00bc8d68fde69ff76acb81739e5c400",
+    "url": "/dragalia/static/media/400424_02.f00bc8d6.png"
+  },
+  {
+    "revision": "5e5904a833090d335351176f26b2539c",
+    "url": "/dragalia/static/media/400431_01.5e5904a8.png"
+  },
+  {
+    "revision": "5e5904a833090d335351176f26b2539c",
+    "url": "/dragalia/static/media/400431_02.5e5904a8.png"
   },
   {
     "revision": "9c118b227d2862c35ecca6ae25c10935",
