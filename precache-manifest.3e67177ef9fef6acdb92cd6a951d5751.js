@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "717ea5a61fe1fa32212aeab67d4f6f0a",
+    "revision": "0c47a71f95b0d3194f167d2a32fb609c",
     "url": "/dragalia/index.html"
   },
   {
-    "revision": "0b56613dcb9534a6e5c7",
+    "revision": "e1aff0b50eeb0b6d698f",
     "url": "/dragalia/static/css/main.065f11df.chunk.css"
   },
   {
-    "revision": "e4163d32999cab1241ce",
-    "url": "/dragalia/static/js/2.ed0fa44b.chunk.js"
+    "revision": "c2c8f4c8a4e148182982",
+    "url": "/dragalia/static/js/2.06f093fc.chunk.js"
   },
   {
-    "revision": "0b56613dcb9534a6e5c7",
-    "url": "/dragalia/static/js/main.8b99dd70.chunk.js"
+    "revision": "e1aff0b50eeb0b6d698f",
+    "url": "/dragalia/static/js/main.4c0d06e2.chunk.js"
   },
   {
     "revision": "4b5eba60403e37fd8033",
@@ -1554,6 +1554,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6528143de6803beaac4459dbb94ebbbd",
     "url": "/dragalia/static/media/400412_02.6528143d.png"
+  },
+  {
+    "revision": "8fb2a1b47e738f116f43e9061fe38ece",
+    "url": "/dragalia/static/media/400413_01.8fb2a1b4.png"
+  },
+  {
+    "revision": "d253aac8651606d32187bee23e2e3127",
+    "url": "/dragalia/static/media/400413_02.d253aac8.png"
+  },
+  {
+    "revision": "87bab6332f35385e3fd8dc29570247f3",
+    "url": "/dragalia/static/media/400414_01.87bab633.png"
+  },
+  {
+    "revision": "c069b05e679d80cef570beb6b167bac6",
+    "url": "/dragalia/static/media/400414_02.c069b05e.png"
   },
   {
     "revision": "e3ecc453f2f038ba2e7418b3e96385f1",
